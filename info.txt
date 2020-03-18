@@ -1,0 +1,18 @@
+FAUCET_SK (ed25519e_sk1crs57ytj647p22dlx7npm62g87r2sdystytk70f5yhz52n8zud895qa3c6sfjg7883ekqgqsckx3p3xh86uvynjxkg524344jham20s5j3kd5)
+FAUCET_PK (ed25519_pk1hfqhzv7cg38efg02yk2pxpvs9emlu42nnt3dqyeq0usdghuqqe5qnc6t3k)
+FAUCET_ADDR (ca1skayzufnmpzyl99pagjegyc9jqh80lj42wdw95qnypljp4zlsqrxswa6du5)
+Faucet keys: done
+Fixed keys: done
+LEADER_SK
+LEADER_PK (ed25519_pk16u94fqll044905a645a4rugrd2dx7lkfg89sur6n0z0actrmr3ls9zra4e)
+leader keys: done
+POOL_VRF_SK
+POOL_KES_SK
+POOL_VRF_PK (vrf_pk1mmhnd92vs6u8fr7hnaupnv0tey0ut40x3dlw3nvazepqsnyk3yesza3yrz)
+POOL_KES_PK (kes25519-12-pk1d6pc890gavs6wm2fs5cru2qkz9scaszwtntms23w9yzqpp66d9ksqqm0m2)
+stake-pool vrf and kes keys: done
+stake-pool-registration certificate: done
+stake-pool-delegation certificate 1: done
+stake-pool-delegation certificate 2: done
+poolsecret file: done
+genesis block binary encoded: done
