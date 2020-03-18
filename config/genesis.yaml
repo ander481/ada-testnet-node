@@ -1,0 +1,24 @@
+blockchain_configuration:
+  block0_date: 1584544493
+  discrimination: test
+  slots_per_epoch: 5000
+  slot_duration: 10
+  epoch_stability_depth: 10
+  consensus_genesis_praos_active_slot_coeff: 0.1
+  consensus_leader_ids:
+    - ed25519_pk1mw7kaj9wmngjlc2ujepkmyxp32zsanscxa9t2cc6kr7k6zlwtj0s5hesg9
+  linear_fees:
+    constant: 10
+    coefficient: 0
+    certificate: 0
+  block0_consensus: genesis_praos
+  kes_update_speed: 43200 # 12hours
+initial:
+  - fund:
+      - address: ca1s4wwagnfyrly2g0l9j8s74u3yz5h69m7p9cnyv0h5e4ueh4x2eprg0yfp3f
+        value: 1000000000000
+      - address: ca1s5qt8emzyg76aemyl934wnxwauqu98emrw3m836ep326ee6s9uspgu7ffal
+        value: 1000000000000
+  - cert: signedcert1qvqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzp8907xvlcl7cu56qdrpl0atxhl7r2z8hffwccmthp43kq6gfueaclje768vcmxnn66w8kh65smaqs7tp3k5dwe6hnkf3nxum5p9m4csrkaadmy2ahx39ls4e9jrdkgvrz59pm8psd62k4334v8ad597uhylqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqpqp9jhu3pyd5u7c2869tv8x462ywy00vlul3x3ghau938u4scg2apmkdvh72vzzkp8fkcckqn72majv2zcnz2gacwl86ucatv4lml9nsxd9zz43
+  - cert: signedcert1q9wwagnfyrly2g0l9j8s74u3yz5h69m7p9cnyv0h5e4ueh4x2eprgqtvqarvmx2wu6tufvy4u5609rarr9glec32t4lhdhfj9ncu8mejygqjtqlae8jq48c6l72a4r22mqfya4zdcf73fgd5lq89zy60lz9xwwfeqema8dyp40t55hjmmfxxmtahl74ye6223nfdy5fzg79gl0uyqyqtfjxk
+  - cert: signedcert1qyqt8emzyg76aemyl934wnxwauqu98emrw3m836ep326ee6s9uspgqtvqarvmx2wu6tufvy4u5609rarr9glec32t4lhdhfj9ncu8mejygqcxz3c5s7szxtdr2vtsa0tv86cm934gn09rqwz3kdyvnwantg5gf5zm3fz0q4k303y99upgad66h0kdztg2tqayfd6eypwqkrk8drsqg6y3693
